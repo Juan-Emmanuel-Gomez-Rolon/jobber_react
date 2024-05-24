@@ -96,4 +96,4 @@ Estas pruebas verifican que:
 
 ## Despliegue en Vercel
 
-El despliegue en Vercel se encuentra en la siguiente URL:
+El despliegue en Vercel se encuentra en la siguiente URL: https://jobber-react-tawny.vercel.app/

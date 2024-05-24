@@ -22,7 +22,7 @@ const parseApplicationStatus = (status: string) => {
     }
 };
 
-//const APP_DOMAIN = "";
-const APP_DOMAIN = "http://localhost:8000";
+const APP_DOMAIN = "https://jobber-react-tawny.vercel.app/";
+//const APP_DOMAIN = "http://localhost:8000";
 
 export { parseAccountType, parseApplicationStatus, APP_DOMAIN };
